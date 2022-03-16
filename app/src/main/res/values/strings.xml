@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">AppLab7</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="type_of_menu">Type of menu</string>
+    <string name="drinks">Drinks</string>
+    <string name="starters">Starters</string>
+    <string name="main_dish">Main Dish</string>
+    <string name="deserts">Deserts</string>
+
+    <string-array name="type_of_menu">
+        <item>Veg</item>
+        <item>Non-Veg</item>
+    </string-array>
+
+    <string-array name="drinks">
+        <item>Lemon juice</item>
+        <item>Orange juice</item>
+        <item>Watermelon juice</item>
+        <item>Soup</item>
+    </string-array>
+
+    <string-array name="starters">
+        <item>Tikka</item>
+        <item>Kebab</item>
+        <item>Grill</item>
+        <item>Roast</item>
+    </string-array>
+
+    <string-array name="Main_dish">
+        <item>Noodles</item>
+        <item>Biryani</item>
+        <item>Fried rice</item>
+        <item>Pizza</item>
+        <item>Burger</item>
+    </string-array>
+
+    <string-array name="Deserts">
+        <item>Ice cream</item>
+        <item>Sweet dish</item>
+        <item>Cake</item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
